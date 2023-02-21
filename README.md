@@ -3,13 +3,9 @@
 [![Twitter](https://img.shields.io/twitter/follow/adriencaccia.svg?style=social&label=@adriencaccia)](https://twitter.com/adriencaccia)
 [![GitHub followers](https://img.shields.io/github/followers/adriencaccia?style=social)](https://github.com/adriencaccia)
 
-Tech Lead [@theodo](https://github.com/theodo)
+Serverless Senior Architect [@theodo](https://github.com/theodo)
 
 [![adriencaccia's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriencaccia&show_icons=true&theme=tokyonight)](https://github.com/adriencaccia)
-
-## 👨‍👩‍👧‍👦 Community
-
-- [AWS Community Builder](https://aws.amazon.com/fr/developer/community/community-builders/) member
 
 ## 🔭 Projects
 
@@ -17,6 +13,16 @@ Tech Lead [@theodo](https://github.com/theodo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriencaccia&repo=serverless-analyze-bundle-plugin&theme=tokyonight)](https://github.com/adriencaccia/serverless-analyze-bundle-plugin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriencaccia&repo=cdk-bundle-analyzer&theme=tokyonight)](https://github.com/adriencaccia/cdk-bundle-analyzer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriencaccia&repo=serverless-custom-iam-roles-per-function&theme=tokyonight)](https://github.com/adriencaccia/serverless-custom-iam-roles-per-function)
+
+## 👨‍👩‍👧‍👦 Community
+
+- [AWS Community Builder](https://aws.amazon.com/fr/developer/community/community-builders/) member
+
+## 🎓 Certifications
+
+<a href="https://www.credly.com/badges/065673a5-e84f-4a75-a005-a84375280a9c/public_url">
+    <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" height="150px" alt="AWS Solutions Architect Professional">
+</a>
 
 ## 📖 Articles
 
