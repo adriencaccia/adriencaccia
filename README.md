@@ -3,7 +3,11 @@
 [![Twitter](https://img.shields.io/twitter/follow/adriencaccia.svg?style=social&label=@adriencaccia)](https://twitter.com/adriencaccia)
 [![GitHub followers](https://img.shields.io/github/followers/adriencaccia?style=social)](https://github.com/adriencaccia)
 
-Serverless Senior Architect [@theodo](https://github.com/theodo)
+Co-Founder of [@CodSpeedHQ](https://github.com/CodSpeedHQ) 🐇
+
+### Previously
+
+- 2019-2023: Serverless Senior Architect [@theodo](https://github.com/theodo)
 
 [![adriencaccia's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriencaccia&show_icons=true&theme=tokyonight)](https://github.com/adriencaccia)
 
