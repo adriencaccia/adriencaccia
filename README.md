@@ -5,9 +5,10 @@
 
 Co-Founder of [@CodSpeedHQ](https://github.com/CodSpeedHQ) 🐇
 
-### Previously
+### Experience
 
 - 2019-2023: Serverless Senior Architect [@theodo](https://github.com/theodo)
+- 2023-present: Co-Founder [CodSpeed](https://codspeed.io)
 
 [![adriencaccia's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriencaccia&show_icons=true&theme=tokyonight)](https://github.com/adriencaccia)
 
