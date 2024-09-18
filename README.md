@@ -1,4 +1,4 @@
-## Adrien Cacciaguerra 🤔
+## Adrien Cacciaguerra 😬
 
 [![Twitter](https://img.shields.io/twitter/follow/adriencaccia.svg?style=social&label=@adriencaccia)](https://twitter.com/adriencaccia)
 [![GitHub followers](https://img.shields.io/github/followers/adriencaccia?style=social)](https://github.com/adriencaccia)
