@@ -19,16 +19,6 @@ Co-Founder of [@CodSpeedHQ](https://github.com/CodSpeedHQ) 🐇
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriencaccia&repo=cdk-bundle-analyzer&theme=tokyonight)](https://github.com/adriencaccia/cdk-bundle-analyzer)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adriencaccia&repo=serverless-custom-iam-roles-per-function&theme=tokyonight)](https://github.com/adriencaccia/serverless-custom-iam-roles-per-function)
 
-## 👨‍👩‍👧‍👦 Community
-
-- [AWS Community Builder](https://aws.amazon.com/fr/developer/community/community-builders/) member
-
-## 🎓 Certifications
-
-<a href="https://www.credly.com/badges/065673a5-e84f-4a75-a005-a84375280a9c/public_url">
-    <img src="https://images.credly.com/images/2d84e428-9078-49b6-a804-13c15383d0de/image.png" height="150px" alt="AWS Solutions Architect Professional">
-</a>
-
 ## 📖 Articles
 
 [![dev.to](https://img.shields.io/badge/dev.to-@adriencaccia-black?style=social&logo=dev.to)](https://dev.to/adriencaccia)
