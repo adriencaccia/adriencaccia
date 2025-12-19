@@ -31,5 +31,6 @@ Co-Founder of [@CodSpeedHQ](https://github.com/CodSpeedHQ) 🐇
 - 2022 🇬🇧 [Shipping type-safe Serverless microservices at scale](https://www.youtube.com/watch?v=brh72S94SNI&t=51s) @ [Serverless London](https://www.meetup.com/Serverless-London/events/283648832/)
 - 2022 🇫🇷 [Déployer vos microservices Serverless sans accroc grâce à TypeScript](https://www.youtube.com/watch?v=BwAz1o3uRQE&t=406s) @ [AWS User Groups France - Paris](https://www.meetup.com/French-AWS-UG/events/283194276/)
 - 2025 🇬🇧 [Intuition vs. Reality: Surprising Truths in Python Performance](https://www.youtube.com/watch?v=TEF6yhdOwEA) @ [PyCon US 2025](https://us.pycon.org/2025/)
-- 2025 🇬🇧 Intuition vs. Reality: Surprising Truths in Python Performance @ [PyCon Italia 2025](https://2025.pycon.it/en)
-- 2025 🇬🇧 Intuition vs. Reality: Surprising Truths in Python Performance @ [EuroPython 2025](https://ep2025.europython.eu/)
+- 2025 🇬🇧 [Intuition vs. Reality: Surprising Truths in Python Performance](https://www.youtube.com/watch?v=-rjhptAmIUI) @ [PyCon Italia 2025](https://2025.pycon.it/en)
+- 2025 🇬🇧 [Intuition vs. Reality: Surprising Truths in Python Performance](https://www.youtube.com/watch?v=hJqX5_thxAc) @ [EuroPython 2025](https://ep2025.europython.eu/)
+- 2025 🇬🇧 [Trust Your Benchmarks, Not Your Instincts: A Rust Performance Quiz](https://www.youtube.com/watch?v=b9I9eVEVCzU) @ [EuroRust 2025](https://eurorust.eu/2025/)
